@@ -1,6 +1,5 @@
 # Space exploration web app
 
-http://compact.github.io/space/
 
 This app allows you to navigate through space in your browser. It uses [three.js](http://threejs.org/) to render astronomical bodies.
 
