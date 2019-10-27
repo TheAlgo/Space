@@ -13,7 +13,7 @@ bower install
 node app.js
 ```
 
-Go to `http://localhost:3001`.
+Go to `http://localhost:3001`
 
 ### Build
 
@@ -22,7 +22,7 @@ npm install -g grunt
 grunt build
 ```
 
-The built files are located in `/dist/`.
+The built files are located in `/dist/`
 
 ### Generate docs
 
