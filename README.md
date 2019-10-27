@@ -22,7 +22,7 @@ npm install -g grunt
 grunt build
 ```
 
-The built files are located in `/dist/`.
+The built files are located in `/dist/`
 
 ### Generate docs
 
